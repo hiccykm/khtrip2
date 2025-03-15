@@ -1,0 +1,366 @@
+<manifest alg="2" build="704" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3837790900"/>
+    <file name="master_a-__.css" crc="7577519" ref="about-kaohsiung:index:hotspot:about-us:nature-garden:narrative:lotus-pond:video:bibliography:website-map:ancient-gate:religious-temple:classic-tastes:festival:interview:historic-residence"/>
+    <file name="about-kaohsiung.css" crc="3806117806" ref="about-kaohsiung"/>
+    <file name="index.css" crc="4193853442" ref="index"/>
+    <file name="hotspot.css" crc="3824720830" ref="hotspot"/>
+    <file name="about-us.css" crc="4191452425" ref="about-us"/>
+    <file name="nature-garden.css" crc="3954734782" ref="nature-garden"/>
+    <file name="narrative.css" crc="474994305" ref="narrative"/>
+    <file name="lotus-pond.css" crc="3780273459" ref="lotus-pond"/>
+    <file name="video.css" crc="3883482960" ref="video"/>
+    <file name="bibliography.css" crc="397646263" ref="bibliography"/>
+    <file name="website-map.css" crc="110823669" ref="website-map"/>
+    <file name="ancient-gate.css" crc="3852870271" ref="ancient-gate"/>
+    <file name="religious-temple.css" crc="3849078226" ref="religious-temple"/>
+    <file name="classic-tastes.css" crc="3999044649" ref="classic-tastes"/>
+    <file name="festival.css" crc="146367637" ref="festival"/>
+    <file name="interview.css" crc="486245457" ref="interview"/>
+    <file name="historic-residence.css" crc="280182353" ref="historic-residence"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:video:bibliography:website-map:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="museutils.js" crc="3992981318" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:video:bibliography:website-map:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="webpro.js" crc="197321703" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="musewpslideshow.js" crc="4283859919" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="jquery.museoverlay.js" crc="3836522771" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:about-kaohsiung:historic-residence:lotus-pond:about-us:narrative:video:bibliography:website-map:ancient-gate:religious-temple:classic-tastes:interview:festival:hotspot:nature-garden"/>
+    <file name="pie.js" crc="3827607177" ref="lotus-pond:religious-temple:hotspot:nature-garden"/>
+  </folder>
+  <folder name="images">
+    <file name="e_index.png" crc="324641053" ref="index"/>
+    <file name="2025tilte.png" crc="421361133" ref="index"/>
+    <file name="2025title2.png" crc="515682510" ref="index"/>
+    <file name="dsc04126.jpg" crc="3874039064" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-kaohsiung"/>
+    <file name="pdrm1136.jpg" crc="344512472" ref="index"/>
+    <file name="img20200207154301.jpg" crc="4278809226" ref="index"/>
+    <file name="376.jpg" crc="3961951848" ref="index"/>
+    <file name="img_20240306_151611.jpg" crc="137390734" ref="index"/>
+    <file name="img_20240306_154941.jpg" crc="454507012" ref="index"/>
+    <file name="img_20240306_161224.jpg" crc="295594647" ref="index"/>
+    <file name="20170123_170123_0028.jpg" crc="4217973516" ref="index"/>
+    <file name="dsc00780.jpg" crc="4102004971" ref="index"/>
+    <file name="dsc01016.jpg" crc="3841664916" ref="index"/>
+    <file name="dsc01074.jpg" crc="3802912716" ref="index"/>
+    <file name="dscf0107.jpg" crc="315571637" ref="index"/>
+    <file name="img20170201114406.jpg" crc="4042008043" ref="index"/>
+    <file name="img20191217092908.jpg" crc="3772189627" ref="index"/>
+    <file name="img20191229162936.jpg" crc="3827977440" ref="index"/>
+    <file name="img20200112135802.jpg" crc="4009230537" ref="index"/>
+    <file name="img20200207161021.jpg" crc="3837789121" ref="index"/>
+    <file name="img20200208084321.jpg" crc="138546398" ref="index"/>
+    <file name="img20200210113653.jpg" crc="4137676227" ref="index"/>
+    <file name="img20200214113302.jpg" crc="4257787313" ref="index"/>
+    <file name="img20200214125617.jpg" crc="361147135" ref="index"/>
+    <file name="img_20240213_195619.jpg" crc="74998945" ref="index"/>
+    <file name="img_20240213_203933.jpg" crc="4203336731" ref="index"/>
+    <file name="img_20240213_204730.jpg" crc="239004087" ref="index"/>
+    <file name="img_20250101_122224.jpg" crc="129496916" ref="index"/>
+    <file name="img_20250105_160155.jpg" crc="3859320271" ref="index"/>
+    <file name="img_20250107_205853.jpg" crc="4098867771" ref="index"/>
+    <file name="img_20250122_120224.jpg" crc="4075681257" ref="index"/>
+    <file name="img_20250122_190118.jpg" crc="3980590922" ref="index"/>
+    <file name="img_20250126_173921.jpg" crc="4045832114" ref="index"/>
+    <file name="img_20250129_180403.jpg" crc="3862784488" ref="index"/>
+    <file name="南門.jpg" crc="38115956" ref="index"/>
+    <file name="薛家古厝.jpg" crc="358612773" ref="index"/>
+    <file name="謝家古厝.jpg" crc="4137746218" ref="index"/>
+    <file name="pdrm1270.jpg" crc="316791683" ref="index"/>
+    <file name="img20180122164442.jpg" crc="3822785800" ref="index"/>
+    <file name="img20180123144041.jpg" crc="175928598" ref="index"/>
+    <file name="dsc_0242.jpg" crc="371831945" ref="index"/>
+    <file name="dsc_0228.jpg" crc="3991466504" ref="index"/>
+    <file name="dsc01344.jpg" crc="3763239116" ref="index"/>
+    <file name="dsc0412668x45.jpg" crc="50654412" ref="index"/>
+    <file name="pdrm113660x45.jpg" crc="381408985" ref="index"/>
+    <file name="img2020020715430160x45.jpg" crc="383255197" ref="index"/>
+    <file name="37680x45.jpg" crc="4070635837" ref="index"/>
+    <file name="img_20240306_15161160x45.jpg" crc="300802412" ref="index"/>
+    <file name="img_20240306_15494160x45.jpg" crc="513767621" ref="index"/>
+    <file name="img_20240306_16122460x45.jpg" crc="4078248017" ref="index"/>
+    <file name="20170123_170123_002881x45.jpg" crc="4131178556" ref="index"/>
+    <file name="dsc0078060x45.jpg" crc="464843657" ref="index"/>
+    <file name="dsc0101660x45.jpg" crc="4136188538" ref="index"/>
+    <file name="dsc0107460x45.jpg" crc="41701876" ref="index"/>
+    <file name="dscf010768x45.jpg" crc="248904205" ref="index"/>
+    <file name="img2017020111440660x45.jpg" crc="460680397" ref="index"/>
+    <file name="img2019121709290860x45.jpg" crc="360909372" ref="index"/>
+    <file name="img2019122916293660x45.jpg" crc="4196222285" ref="index"/>
+    <file name="img2020011213580260x45.jpg" crc="289429451" ref="index"/>
+    <file name="img2020020716102160x45.jpg" crc="3904100698" ref="index"/>
+    <file name="img2020020808432160x45.jpg" crc="369084133" ref="index"/>
+    <file name="img2020021011365360x45.jpg" crc="428032088" ref="index"/>
+    <file name="img2020021411330260x45.jpg" crc="287879605" ref="index"/>
+    <file name="img2020021412561760x45.jpg" crc="4180579610" ref="index"/>
+    <file name="img_20240213_19561960x45.jpg" crc="4198893935" ref="index"/>
+    <file name="img_20240213_20393360x45.jpg" crc="3927543547" ref="index"/>
+    <file name="img_20240213_20473060x45.jpg" crc="3895095884" ref="index"/>
+    <file name="img_20250101_12222460x45.jpg" crc="223047843" ref="index"/>
+    <file name="img_20250105_16015560x45.jpg" crc="3865633552" ref="index"/>
+    <file name="img_20250107_20585360x45.jpg" crc="3822900538" ref="index"/>
+    <file name="img_20250122_12022460x45.jpg" crc="367850253" ref="index"/>
+    <file name="img_20250122_19011860x45.jpg" crc="2828074" ref="index"/>
+    <file name="img_20250126_17392160x45.jpg" crc="203887357" ref="index"/>
+    <file name="img_20250129_18040360x45.jpg" crc="3943441726" ref="index"/>
+    <file name="南門60x80.jpg" crc="458250906" ref="index"/>
+    <file name="薛家古厝60x45.jpg" crc="352450648" ref="index"/>
+    <file name="謝家古厝60x45.jpg" crc="279057232" ref="index"/>
+    <file name="pdrm127060x45.jpg" crc="3762043216" ref="index"/>
+    <file name="img2018012216444260x45.jpg" crc="89351963" ref="index"/>
+    <file name="img2018012314404160x45.jpg" crc="403745369" ref="index"/>
+    <file name="dsc_024280x45.jpg" crc="402063507" ref="index"/>
+    <file name="dsc_022880x45.jpg" crc="4004393863" ref="index"/>
+    <file name="dsc0134460x45.jpg" crc="362520501" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cfparticipantbanner2024.jpg" crc="3893716913" ref="index"/>
+    <file name="cf2025 logo.jpg" crc="467243027" ref="index:narrative:video"/>
+    <file name="pasted image 468x65.jpg" crc="345605995" ref="index"/>
+    <file name="pasted image 1022x212.jpg" crc="4135957389" ref="about-kaohsiung"/>
+    <file name="u6207-11.png" crc="244098876" ref="about-kaohsiung"/>
+    <file name="img20180123155203.jpg" crc="4018728286" ref="about-kaohsiung"/>
+    <file name="dsc_0206.jpg" crc="4045858166" ref="about-kaohsiung"/>
+    <file name="u104-12.png" crc="381153280" ref="about-kaohsiung"/>
+    <file name="pasted image 459x645.jpg" crc="3801389622" ref="about-kaohsiung"/>
+    <file name="img20200112131513.jpg" crc="33788497" ref="about-kaohsiung"/>
+    <file name="u9207-10.png" crc="4250897419" ref="about-kaohsiung"/>
+    <file name="img_20240214_082412.jpg" crc="4120987606" ref="about-kaohsiung"/>
+    <file name="img_20240213_2047302.jpg" crc="4211150865" ref="about-kaohsiung"/>
+    <file name="e0-2.jpg" crc="4053289302" ref="about-kaohsiung"/>
+    <file name="dsc01069.jpg" crc="477791107" ref="about-kaohsiung"/>
+    <file name="dsc01064.jpg" crc="466697172" ref="about-kaohsiung"/>
+    <file name="img_20211021_172629.jpg" crc="3831677216" ref="about-kaohsiung"/>
+    <file name="pasted image 656x926.jpg" crc="3914650805" ref="about-kaohsiung"/>
+    <file name="u119.png" crc="167285678" ref="about-kaohsiung"/>
+    <file name="u119-r.png" crc="4192047008" ref="about-kaohsiung"/>
+    <file name="u119-a.png" crc="4022541653" ref="about-kaohsiung"/>
+    <file name="u117.png" crc="362647887" ref="about-kaohsiung"/>
+    <file name="u117-r.png" crc="3857976257" ref="about-kaohsiung"/>
+    <file name="u117-a.png" crc="362647887" ref="about-kaohsiung"/>
+    <file name="residence.png" crc="179897497" ref="historic-residence"/>
+    <file name="dsc010692.jpg" crc="51465545" ref="historic-residence"/>
+    <file name="dsc01068.jpg" crc="4093548174" ref="historic-residence"/>
+    <file name="d2-2.jpg" crc="76258643" ref="historic-residence"/>
+    <file name="d2-8.jpg" crc="4110807838" ref="historic-residence"/>
+    <file name="d2-3.jpg" crc="40189934" ref="historic-residence"/>
+    <file name="u403-10.png" crc="4117155062" ref="historic-residence"/>
+    <file name="img20191217093008.jpg" crc="4231606021" ref="historic-residence"/>
+    <file name="img201912170929082.jpg" crc="253755068" ref="historic-residence"/>
+    <file name="pasted image 500x375.jpg" crc="3981562093" ref="historic-residence"/>
+    <file name="pasted image 500x3752.jpg" crc="4266727912" ref="historic-residence"/>
+    <file name="dsc010162.jpg" crc="38581001" ref="historic-residence"/>
+    <file name="dsc01017.jpg" crc="492266212" ref="historic-residence"/>
+    <file name="img20200207153820.jpg" crc="182875766" ref="historic-residence"/>
+    <file name="img20200207154404.jpg" crc="4165303365" ref="historic-residence"/>
+    <file name="img202002071610212.jpg" crc="4227131734" ref="historic-residence"/>
+    <file name="img20200207161405.jpg" crc="65749877" ref="historic-residence"/>
+    <file name="img20200112135618.jpg" crc="3873451422" ref="historic-residence"/>
+    <file name="img20200112135050.jpg" crc="48098494" ref="historic-residence"/>
+    <file name="img20200112135103.jpg" crc="247136828" ref="historic-residence"/>
+    <file name="img201912291629362.jpg" crc="3762942341" ref="historic-residence"/>
+    <file name="img20191229163256.jpg" crc="113703736" ref="historic-residence"/>
+    <file name="3762.jpg" crc="4153594304" ref="historic-residence"/>
+    <file name="381.jpg" crc="202551010" ref="historic-residence"/>
+    <file name="img20200208084607.jpg" crc="5280211" ref="historic-residence"/>
+    <file name="img20200208084651.jpg" crc="449844871" ref="historic-residence"/>
+    <file name="img20200208084629.jpg" crc="186036397" ref="historic-residence"/>
+    <file name="dscn0015.jpg" crc="217602617" ref="historic-residence"/>
+    <file name="dscn0462.jpg" crc="4218117169" ref="historic-residence"/>
+    <file name="dscn5268.jpg" crc="3775925848" ref="historic-residence"/>
+    <file name="img20200214123152.jpg" crc="4162329630" ref="historic-residence"/>
+    <file name="lotuspond.png" crc="530219126" ref="lotus-pond"/>
+    <file name="pasted image 599x270.jpg" crc="365751444" ref="lotus-pond"/>
+    <file name="pasted image 599x2702.jpg" crc="3806250119" ref="lotus-pond"/>
+    <file name="pasted image 605x272.jpg" crc="405732161" ref="lotus-pond"/>
+    <file name="pasted image 606x455.jpg" crc="4066240721" ref="lotus-pond"/>
+    <file name="pasted image 628x471.jpg" crc="4271352771" ref="lotus-pond"/>
+    <file name="pasted image 624x468.jpg" crc="89581446" ref="lotus-pond"/>
+    <file name="pasted image 615x277.jpg" crc="536374867" ref="lotus-pond"/>
+    <file name="pasted image 620x279.jpg" crc="3999419007" ref="lotus-pond"/>
+    <file name="pasted image 617x278.jpg" crc="4194828110" ref="lotus-pond"/>
+    <file name="pasted image 669x502.jpg" crc="4029655929" ref="lotus-pond"/>
+    <file name="pasted image 644x483.jpg" crc="451952472" ref="lotus-pond"/>
+    <file name="pasted image 646x485.jpg" crc="474620852" ref="lotus-pond"/>
+    <file name="pasted image 357x268.jpg" crc="250146126" ref="lotus-pond"/>
+    <file name="pasted image 357x2682.jpg" crc="4253364146" ref="lotus-pond"/>
+    <file name="pasted image 652x489.jpg" crc="4053340617" ref="lotus-pond"/>
+    <file name="pasted image 654x491.jpg" crc="126296837" ref="lotus-pond"/>
+    <file name="pasted image 532x399.jpg" crc="236134245" ref="lotus-pond"/>
+    <file name="pasted image 524x393.jpg" crc="4177131232" ref="lotus-pond"/>
+    <file name="pasted image 529x397.jpg" crc="177282139" ref="lotus-pond"/>
+    <file name="pasted image 521x391.jpg" crc="208317578" ref="lotus-pond"/>
+    <file name="pasted image 521x3912.jpg" crc="331860178" ref="lotus-pond"/>
+    <file name="pasted image 521x3913.jpg" crc="3924354511" ref="lotus-pond"/>
+    <file name="about_as.png" crc="251652920" ref="about-us"/>
+    <file name="螢幕擷取畫面 2025-02-15 230454.png" crc="4242738884" ref="about-us"/>
+    <file name="206003_0.jpg" crc="3883845903" ref="about-us"/>
+    <file name="line_album_大頭照_250212_4.jpg" crc="349295030" ref="about-us"/>
+    <file name="line_album_大頭照_250212_3.jpg" crc="365141729" ref="about-us"/>
+    <file name="line_album_大頭照_250212_2.jpg" crc="64394601" ref="about-us"/>
+    <file name="line_album_大頭照_250212_1.jpg" crc="392057083" ref="about-us"/>
+    <file name="螢幕擷取畫面 2025-02-15 225832.png" crc="3840033461" ref="about-us"/>
+    <file name="螢幕擷取畫面 2025-02-18 235102.jpg" crc="4099772410" ref="about-us"/>
+    <file name="螢幕擷取畫面 2025-02-18 235434.png" crc="4053303764" ref="about-us"/>
+    <file name="螢幕擷取畫面 2025-03-15 075210.png" crc="4049812636" ref="about-us"/>
+    <file name="螢幕擷取畫面 2025-03-15 075238.png" crc="4149070700" ref="about-us"/>
+    <file name="ccy_photo.jpg" crc="3825450956" ref="about-us"/>
+    <file name="u12271-36.png" crc="4249542611" ref="about-us"/>
+    <file name="all_photo_110_中正大學-1_03-外文系_406115053_406115053-2.jpg" crc="113999475" ref="about-us"/>
+    <file name="pasted image 203x224.jpg" crc="324751238" ref="about-us"/>
+    <file name="narrative.png" crc="191221396" ref="narrative"/>
+    <file name="螢幕擷取畫面 2025-02-06 032107.png" crc="4238778619" ref="narrative"/>
+    <file name="vedio.png" crc="531576819" ref="video"/>
+    <file name="bibo.png" crc="504965540" ref="bibliography"/>
+    <file name="擷取1.jpg" crc="369017942" ref="bibliography"/>
+    <file name="擷取.jpg" crc="4243775197" ref="bibliography"/>
+    <file name="website map.png" crc="4037739505" ref="website-map"/>
+    <file name="ancient_gate.png" crc="279048763" ref="ancient-gate"/>
+    <file name="pdrm1147-u6817.jpg" crc="4051805269" ref="ancient-gate"/>
+    <file name="pdrm1141-u6812.jpg" crc="436645767" ref="ancient-gate"/>
+    <file name="800px-舊城西門遺址碑-u6797.jpg" crc="4259675974" ref="ancient-gate"/>
+    <file name="pdrm1126-u6822.jpg" crc="398723590" ref="ancient-gate"/>
+    <file name="u6712-7.png" crc="4210869406" ref="ancient-gate"/>
+    <file name="pdrm1152-u6827.jpg" crc="78713733" ref="ancient-gate"/>
+    <file name="pdrm1157-u6837.jpg" crc="439897792" ref="ancient-gate"/>
+    <file name="pdrm1161.jpg" crc="146855702" ref="ancient-gate"/>
+    <file name="1024px-鳳山縣舊城北門.jpg" crc="4198424314" ref="ancient-gate"/>
+    <file name="pdrm1135.jpg" crc="77516054" ref="ancient-gate"/>
+    <file name="img20200208092200.jpg" crc="3820745837" ref="ancient-gate"/>
+    <file name="img20200208091854.jpg" crc="209020254" ref="ancient-gate"/>
+    <file name="img20200208091939.jpg" crc="448741767" ref="ancient-gate"/>
+    <file name="pasted image 24x30.jpg" crc="4294163782" ref="ancient-gate:festival"/>
+    <file name="417.jpg" crc="97794425" ref="ancient-gate"/>
+    <file name="170203_0113.jpg" crc="3988031838" ref="ancient-gate"/>
+    <file name="img20200208090930.jpg" crc="199503765" ref="ancient-gate"/>
+    <file name="img20200208090858.jpg" crc="4073312301" ref="ancient-gate"/>
+    <file name="img20200208090912.jpg" crc="419275199" ref="ancient-gate"/>
+    <file name="snap3.png" crc="4062103646" ref="ancient-gate"/>
+    <file name="snap1.png" crc="360433764" ref="ancient-gate"/>
+    <file name="religious temple_e.png" crc="3863451698" ref="religious-temple"/>
+    <file name="c1-11.jpg" crc="4168543902" ref="religious-temple"/>
+    <file name="img20200111095115.jpg" crc="4150886713" ref="religious-temple"/>
+    <file name="c4-16.jpg" crc="3903393010" ref="religious-temple"/>
+    <file name="c5-6.jpg" crc="45199927" ref="religious-temple"/>
+    <file name="tttcn0233.jpg" crc="4063025" ref="religious-temple"/>
+    <file name="c4-3.jpg" crc="4218588753" ref="religious-temple"/>
+    <file name="img202002101136532.jpg" crc="82639766" ref="religious-temple"/>
+    <file name="img20200210113914.jpg" crc="86336825" ref="religious-temple"/>
+    <file name="dsc_0261.jpg" crc="3782878696" ref="religious-temple"/>
+    <file name="c6-3.jpg" crc="61457113" ref="religious-temple"/>
+    <file name="c7-2.jpg" crc="361141195" ref="religious-temple"/>
+    <file name="c7-1.jpg" crc="4061636593" ref="religious-temple"/>
+    <file name="c8-10.jpg" crc="66145463" ref="religious-temple"/>
+    <file name="c8-3.jpg" crc="4090112463" ref="religious-temple"/>
+    <file name="img_20240211_101256.jpg" crc="4022372079" ref="religious-temple"/>
+    <file name="旗津_170203_0014.jpg" crc="194846490" ref="religious-temple"/>
+    <file name="img20200207154937.jpg" crc="328686194" ref="religious-temple"/>
+    <file name="img20200207155041.jpg" crc="3901772658" ref="religious-temple"/>
+    <file name="img20200208084754.jpg" crc="426508585" ref="religious-temple"/>
+    <file name="img20200208085552.jpg" crc="373215306" ref="religious-temple"/>
+    <file name="food.png" crc="371993311" ref="classic-tastes"/>
+    <file name="pdrm1756.jpg" crc="385293086" ref="classic-tastes"/>
+    <file name="f0-1.jpg" crc="3951830971" ref="classic-tastes"/>
+    <file name="f1-3.jpg" crc="4045007473" ref="classic-tastes"/>
+    <file name="dsc_0192.jpg" crc="31914377" ref="classic-tastes"/>
+    <file name="pdrm1179.jpg" crc="34931734" ref="classic-tastes"/>
+    <file name="pdrm1174.jpg" crc="4014950235" ref="classic-tastes"/>
+    <file name="pdrm1755.jpg" crc="346099236" ref="classic-tastes"/>
+    <file name="f4-2.jpg" crc="3908892818" ref="classic-tastes"/>
+    <file name="f4-1.jpg" crc="25286892" ref="classic-tastes"/>
+    <file name="pdrm1744.jpg" crc="219345251" ref="classic-tastes"/>
+    <file name="擷取2.jpg" crc="518787191" ref="classic-tastes"/>
+    <file name="pasted image 295x226.jpg" crc="3868711557" ref="classic-tastes"/>
+    <file name="擷取.png" crc="3811209087" ref="classic-tastes"/>
+    <file name="擷取2.png" crc="4274166330" ref="classic-tastes"/>
+    <file name="ａ200213_0011.jpg" crc="130755791" ref="classic-tastes"/>
+    <file name="ａ200213_0012.jpg" crc="18614939" ref="classic-tastes"/>
+    <file name="ａ200213_0010.jpg" crc="158381735" ref="classic-tastes"/>
+    <file name="ａ200213_0005.jpg" crc="344676032" ref="classic-tastes"/>
+    <file name="interview.png" crc="4191167554" ref="interview"/>
+    <file name="螢幕擷取畫面 2025-03-03 213815.png" crc="4035160529" ref="interview"/>
+    <file name="螢幕擷取畫面 2025-03-03 220657.png" crc="188138515" ref="interview"/>
+    <file name="img_20240306_151634.jpg" crc="288718187" ref="interview"/>
+    <file name="img20200210111908.jpg" crc="427004963" ref="interview"/>
+    <file name="img_20240306_1549412.jpg" crc="4160546269" ref="interview"/>
+    <file name="img_20240306_153148.jpg" crc="63699824" ref="interview"/>
+    <file name="festival.png" crc="154267496" ref="festival"/>
+    <file name="pasted image 624x281.jpg" crc="3854042503" ref="festival"/>
+    <file name="img_20221030_113141.jpg" crc="481910660" ref="festival"/>
+    <file name="img_20240213_194129.jpg" crc="91915944" ref="festival"/>
+    <file name="img_20240213_194122.jpg" crc="501769383" ref="festival"/>
+    <file name="img_20240213_1956192.jpg" crc="3893790389" ref="festival"/>
+    <file name="u12560-10.png" crc="3766539549" ref="festival"/>
+    <file name="img_20240213_204446.jpg" crc="4031285298" ref="festival"/>
+    <file name="img_20240205_184210.jpg" crc="3974350512" ref="festival"/>
+    <file name="festival2.png" crc="6433858" ref="festival"/>
+    <file name="festival3.png" crc="211703046" ref="festival"/>
+    <file name="pasted image 615x2772.jpg" crc="4122884462" ref="festival"/>
+    <file name="pasted image 610x458.jpg" crc="3921533580" ref="festival"/>
+    <file name="pasted image 643x289.jpg" crc="3794880632" ref="festival"/>
+    <file name="pasted image 643x2892.jpg" crc="150374523" ref="festival"/>
+    <file name="pasted image 638x287.jpg" crc="178678397" ref="festival"/>
+    <file name="pasted image 643x370.jpg" crc="4028993869" ref="festival"/>
+    <file name="pasted image 638x389.jpg" crc="4256286899" ref="festival"/>
+    <file name="img_20250129_1804032.jpg" crc="4038575151" ref="festival"/>
+    <file name="img_20250129_183030.jpg" crc="3927219622" ref="festival"/>
+    <file name="hot spot.png" crc="449860440" ref="hotspot"/>
+    <file name="pasted image 666x499.jpg" crc="4123768506" ref="hotspot"/>
+    <file name="pasted image 669x5022.jpg" crc="172441780" ref="hotspot"/>
+    <file name="pasted image 666x500.jpg" crc="4178512894" ref="hotspot"/>
+    <file name="pasted image 666x375.jpg" crc="4102435600" ref="hotspot"/>
+    <file name="pasted image 671x447.jpg" crc="3843024812" ref="hotspot"/>
+    <file name="pasted image 675x450.jpg" crc="3830999216" ref="hotspot"/>
+    <file name="pasted image 619x464.jpg" crc="3970373631" ref="hotspot"/>
+    <file name="pasted image 682x512.jpg" crc="3857470216" ref="hotspot"/>
+    <file name="pasted image 720x405.jpg" crc="474744323" ref="hotspot"/>
+    <file name="pasted image 702x527.jpg" crc="113382590" ref="hotspot"/>
+    <file name="pasted image 663x497.jpg" crc="323326947" ref="hotspot"/>
+    <file name="pasted image 682x5122.jpg" crc="339738081" ref="hotspot"/>
+    <file name="pasted image 680x383.jpg" crc="3779214052" ref="hotspot"/>
+    <file name="pasted image 661x372.jpg" crc="4254456385" ref="hotspot"/>
+    <file name="pasted image 661x3722.jpg" crc="4094316804" ref="hotspot"/>
+    <file name="pasted image 668x501.jpg" crc="161972273" ref="hotspot"/>
+    <file name="pasted image 629x472.jpg" crc="53559484" ref="hotspot"/>
+    <file name="pasted image 632x474.jpg" crc="4237785818" ref="hotspot"/>
+    <file name="nature garden_title.png" crc="3823890261" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-01 065711.png" crc="3889890788" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-01 065801.png" crc="61033961" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-01 065833.png" crc="4277474724" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-09 091527.png" crc="357073385" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-09 091604.png" crc="401679299" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-09 091700.png" crc="4097892040" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-02 065511.png" crc="485141051" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-02 065540.png" crc="10420539" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-02 065555.png" crc="2653056" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 063348.png" crc="4044479927" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 063420.png" crc="3984451427" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 063407.png" crc="4290883050" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 064831.png" crc="3777395166" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 064840.png" crc="4231136171" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 064849.png" crc="332911164" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-01 072110.png" crc="3835036757" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-01 072302.png" crc="3796457365" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-01 072422.png" crc="3799979726" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 060213.png" crc="173561509" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 060229.png" crc="4078594918" ref="nature-garden"/>
+    <file name="螢幕擷取畫面 2025-02-05 060251.png" crc="242621167" ref="nature-garden"/>
+  </folder>
+  <file name="index.html" crc="406401145" mt="1739060968335"/>
+  <file name="about-kaohsiung.html" crc="502429942" mt="1742078645876"/>
+  <file name="historic-residence.html" crc="4070410794" mt="1741992275694"/>
+  <file name="lotus-pond.html" crc="99861173" mt="1738366626314"/>
+  <file name="about-us.html" crc="50885764" mt="1741998728747"/>
+  <file name="narrative.html" crc="210569559" mt="1742030947896"/>
+  <file name="video.html" crc="4157820583" mt="1742078563749"/>
+  <file name="bibliography.html" crc="4273084554" mt="1742046260252"/>
+  <file name="website-map.html" crc="216002231" mt="1741011557131"/>
+  <file name="ancient-gate.html" crc="265590476" mt="1710516573484"/>
+  <file name="religious-temple.html" crc="3807226189" mt="1710858327780"/>
+  <file name="classic-tastes.html" crc="343523128" mt="1707741804350"/>
+  <file name="interview.html" crc="301087038" mt="1741998646918"/>
+  <file name="festival.html" crc="126777255" mt="1739060925622"/>
+  <file name="hotspot.html" crc="439058381" mt="1739063556778"/>
+  <file name="nature-garden.html" crc="4105608293" mt="1739063669696"/>
+</manifest>

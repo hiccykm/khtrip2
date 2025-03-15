@@ -1,0 +1,15 @@
+#u8710-4
+{
+	background-color: #FFFF00;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u8710-2
+{
+	padding-left: -2px;
+	padding-bottom: 2px;
+	padding-top: 4px;
+}
+
